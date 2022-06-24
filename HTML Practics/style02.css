@@ -1,0 +1,62 @@
+
+
+body{
+
+	margin: 0;
+	padding: 0;
+	background: orange;
+}
+
+.search-box{
+	position: absolute;
+	top: -2%;
+	left: 75%;
+	background:white;
+	transform: translate(-50%,50%); 
+	height: 20px;
+	border-radius: 100px;
+	padding: 10px;
+
+}
+
+.bpoktn{
+	color: white;
+	background: blue;
+	cursor: pointer;
+
+
+}
+
+button {
+	color: #fbfcfd;
+	padding: 10px 25px;
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 20px;
+	outline: none;
+	cursor: pointer;
+}
+
+.search-box:hover >.search-txt {
+	width: 200px;
+	padding: 0 6px;
+} 
+
+.search-txt{
+	color: #fbfcfd;
+	padding: 10px 25px;
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 20px;
+	outline: none;
+	cursor: pointer;
+	 border:none;
+	 background: none;
+	 outline: none;
+	 float: left;
+	 padding: 10;
+	 font-size: 14px;
+	 transition: 0.8s;
+	 line-height: 2px;
+	 width: 0;
+}

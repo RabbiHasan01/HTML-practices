@@ -1,0 +1,55 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+body{
+	/*background-image: url(nb.jpg);*/
+
+	background-size: cover;
+	background: crimson;
+}
+
+.navber{
+	position: fixed;	 
+	background: orange;
+	width: 100%;
+	padding: 15px 0;
+	font-family: 'Ubuntu' sans-serif;
+
+
+}
+
+.max-width{
+	max-width: 1300px;
+	padding: 0  80px;
+	margin: auto;
+}
+
+.navber .max-width{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.navber .logo a{
+	font-size: 35px;
+	font-weight: 600;
+	color: #fff;
+
+
+}
+.navber .menu li{
+	display: inline-block;
+	list-style: none; 
+	background: none;
+	  
+}
+.navber .menu li a{
+	color: #fff;
+	font-size: 20px;
+	font-weight: 500;
+	margin-left: 25px;	 
+}
