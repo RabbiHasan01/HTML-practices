@@ -1,0 +1,28 @@
+
+
+#nav-manu{
+    background-color: rgb(7, 241, 163);
+    width: 490px;
+    height: 70px;
+    margin: 0 auto;
+
+}
+
+#nav-manu ul li{
+    
+    list-style-type: none;
+    margin: 20px;
+    float: left;
+}
+
+#nav-manu ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+
+#nav-manu ul li a:hover{
+    text-decoration: underline;
+}
+
+ 
