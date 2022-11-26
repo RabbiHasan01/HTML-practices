@@ -4,4 +4,4 @@
 
 [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-{Tutorial](https://www.youtube.com/@anisul-islam)
+[Tutorial](https://www.youtube.com/@anisul-islam)
